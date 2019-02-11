@@ -7,23 +7,26 @@
 ## Install
 
 ```bash
-npm install --save confetti
+npm install confetti
+
+yarn add confetti
 ```
 
 ## Usage
 
 ```tsx
-import * as React from 'react'
+import React from "react";
+import Confetti from "confetti";
 
-import MyComponent from 'confetti'
+const App = () => {
+  return (
+    <div>
+      <Confetti text="Modern React component module" />
+    </div>
+  );
+};
 
-class Example extends React.Component {
-  render () {
-    return (
-      <MyComponent />
-    )
-  }
-}
+export default App;
 ```
 
 ## License
