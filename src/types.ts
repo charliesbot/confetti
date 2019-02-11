@@ -4,6 +4,11 @@ export type Transform = {
   rotation: number;
 };
 
-export type Props = {
+export type PaperProps = {
   colors: string[];
+};
+
+export type Props = {
+  colors?: string[];
+  numberOfElements?: number;
 };

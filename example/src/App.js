@@ -4,7 +4,7 @@ import Confetti from "confetti";
 const App = () => {
   return (
     <div>
-      <Confetti />
+      <Confetti numberOfElements={300} />
     </div>
   );
 };
