@@ -1,4 +1,4 @@
-# confetti.js
+# ReactFitti
 
 ![Demo Animation](./confetti-demo.gif?raw=true)
 
@@ -9,9 +9,9 @@
 ## Install
 
 ```bash
-npm install confetti
+npm install reactfitti
 
-yarn add confetti
+yarn add reactfitti
 ```
 
 ## Usage
