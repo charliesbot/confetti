@@ -4,7 +4,7 @@ import Confetti from "confetti";
 const App = () => {
   return (
     <div>
-      <Confetti text="Modern React component module" />
+      <Confetti />
     </div>
   );
 };
