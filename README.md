@@ -31,6 +31,14 @@ const App = () => {
 export default App;
 ```
 
+## Props
+| Prop             | Type     | Optional | Default | Description                           |
+|------------------|----------|----------|---------|---------------------------------------|
+| colors           | string[] | Yes      |         | Random colors for the confetti papers |
+| numberOfElements | number   | Yes      | 250     | Amount of pieces on the view          |
+|                  |          |          |         |                                       |                        |
+
+
 ## License
 
 MIT © [charliesbox](https://github.com/charliesbox)
