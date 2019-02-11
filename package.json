@@ -4,7 +4,7 @@
   "description": "",
   "author": "charliesbox",
   "license": "MIT",
-  "repository": "charliesbox/confetti",
+  "repository": "charliesbox/reactfitti",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
