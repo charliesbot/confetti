@@ -1,4 +1,6 @@
-# confetti
+# confetti.js
+
+![Demo Animation](./confetti-demo.gif?raw=true)
 
 > 
 
